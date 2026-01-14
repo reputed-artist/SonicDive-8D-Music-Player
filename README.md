@@ -48,69 +48,25 @@ Choose from a variety of sound profiles to match your mood:
 > *(Add screenshots or GIF demos here)*
 
 ![Demo Image](images/Click.png)
+
 ![Demo Image](images/Click2.png)
+
 ![Demo Image](images/Click3.png)
 
 
-🛠️ Tech Stack
+## 📜 License
 
-Frontend: PYQT5, Python
+This project is licensed under the [MIT License](LICENSE).
 
-Audio Processing: Web Audio API
+## 🤝 Contributing
 
-Platform: Desktop
+Feel free to **fork** the repository and submit **pull requests** to enhance functionality or fix issues.
 
+## 📞 Contact
 
-▶️ How to Run
-
-Clone the repository:
-
-git clone https://github.com/reputed-artist/SonicDive-8D-Music-Player.git
-
-
-Execute Music Player23.py
-
-Plug in headphones 🎧 and enjoy the experience
-
-🎯 Best Experience Tips
-
-Use headphones for 3D/8D effects
-
-Try different spectrums with different genres
-
-Increase system audio quality for deeper immersion
-
-🤝 Contributing
-
-Contributions, ideas, and improvements are welcome!
-
-Fork the repository
-
-Create a new branch
-
-Commit your changes
-
-Open a Pull Request
-
-📜 License
-
-This project is licensed under the MIT License.
-
-🌟 Support
-
-If you like this project, give it a ⭐ on GitHub and share it with others!
-
-Made with 🎶 & ❤️ by reputed-artist
-
+For support or inquiries, reach out via **GitHub Issues** or email **[********[tejaschavda2020@gmail.com](mailto\:tejaschavda2020@gmail.com)********]**.
 
 ---
 
-## ✅ Next suggestions (optional)
-I can also:
-- Add **badges** (stars, license, version)
-- Create a **cool GIF demo**
-- Optimize README for **dark mode**
-- Write a **professional project description**
-- Add **feature comparison table**
+*Developed with ❤️ using CodeIgniter.*
 
-Just tell me what you want next 🚀
