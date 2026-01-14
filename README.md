@@ -68,5 +68,5 @@ For support or inquiries, reach out via **GitHub Issues** or email **[********[t
 
 ---
 
-*Developed with ❤️ using CodeIgniter.*
+*Developed with ❤️ using PYQT5.*
 
